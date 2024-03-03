@@ -10,8 +10,15 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^4.4.7",
     "@astrojs/check": "^0.5.6",
+    "@astrojs/tailwind": "^5.1.0",
+    "@splinetool/runtime": "^1.0.55",
+    "astro": "^4.4.7",
+    "tailwindcss": "^3.4.1",
+    "three": "^0.162.0",
     "typescript": "^5.3.3"
+  },
+  "devDependencies": {
+    "@types/three": "^0.162.0"
   }
 }
